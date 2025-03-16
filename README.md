@@ -27,7 +27,8 @@ Agriculture is highly sensitive to unpredictable weather. This project focuses o
 4. **Data Analysis:** Performed extensive analysis using pandas and SQL for data querying.
 5. **Visualization:** Created insightful plots with matplotlib to understand trends and relationships.
 6. **Modeling:**  
-   - **ARIMA:** Captured linear patterns in time series data.  
+   - **ARIMA:** Captured linear patterns in time series data.
+   - **RANDOM FOREST:** Captured pattern for shorter intervals
    - **LSTM:** Modeled complex, nonlinear patterns for better predictions.  
 7. **Evaluation:** Assessed model performance using R² and RMSE under a univariate setup.
 
@@ -35,7 +36,7 @@ Agriculture is highly sensitive to unpredictable weather. This project focuses o
 
 ## 📈 Results
 - **LSTM** outperformed ARIMA with lower MSE and RMSE values.
-- **Prediction Accuracy:** LSTM provided superior results for complex weather patterns.
+- **Prediction Accuracy:** LSTM and Random Forest provided superior results for complex weather patterns.
 - **Impact:** Accurate forecasts can help farmers plan crops, irrigation, and mitigate risks.
 
 
